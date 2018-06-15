@@ -20,5 +20,7 @@ function dec(n){
 function makeInt(n){
   return parseInt(n, 10) 
 }
-
+function Nan(n){
+  return floatInt(n)
+}
 
